@@ -1,0 +1,5 @@
+{
+  "name": "GitHub Repo Installer",
+  "description": "An application that takes a GitHub repository URL, analyzes its README.md file using AI, and generates a clear, step-by-step guide for various installation methods like Docker, Python, etc.",
+  "requestFramePermissions": []
+}
